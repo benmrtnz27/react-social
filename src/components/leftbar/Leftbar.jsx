@@ -89,6 +89,42 @@ export default function Leftbar() {
                         <img className="leftbarFriendImg" src="/assets/profiles/10.png" alt="" />
                         <span className="leftbarFriendName">Corwin</span>
                     </li>
+                    <li className="leftbarFriend">
+                        <img className="leftbarFriendImg" src="/assets/profiles/11.png" alt="" />
+                        <span className="leftbarFriendName">Eddar</span>
+                    </li>
+                    <li className="leftbarFriend">
+                        <img className="leftbarFriendImg" src="/assets/profiles/12.png" alt="" />
+                        <span className="leftbarFriendName">Jason</span>
+                    </li>
+                    <li className="leftbarFriend">
+                        <img className="leftbarFriendImg" src="/assets/profiles/13.png" alt="" />
+                        <span className="leftbarFriendName">Lillith</span>
+                    </li>
+                    <li className="leftbarFriend">
+                        <img className="leftbarFriendImg" src="/assets/profiles/14.png" alt="" />
+                        <span className="leftbarFriendName">Claude</span>
+                    </li>
+                    <li className="leftbarFriend">
+                        <img className="leftbarFriendImg" src="/assets/profiles/15.png" alt="" />
+                        <span className="leftbarFriendName">Dior</span>
+                    </li>
+                    <li className="leftbarFriend">
+                        <img className="leftbarFriendImg" src="/assets/profiles/16.png" alt="" />
+                        <span className="leftbarFriendName">Neepit</span>
+                    </li>
+                    <li className="leftbarFriend">
+                        <img className="leftbarFriendImg" src="/assets/profiles/17.png" alt="" />
+                        <span className="leftbarFriendName">Saratha</span>
+                    </li>
+                    <li className="leftbarFriend">
+                        <img className="leftbarFriendImg" src="/assets/profiles/18.png" alt="" />
+                        <span className="leftbarFriendName">TP</span>
+                    </li>
+                    <li className="leftbarFriend">
+                        <img className="leftbarFriendImg" src="/assets/profiles/19.png" alt="" />
+                        <span className="leftbarFriendName">Tanaka</span>
+                    </li>
                 </ul>
             </div>
         </div>
