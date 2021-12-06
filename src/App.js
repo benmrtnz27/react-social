@@ -31,3 +31,5 @@ function App() {
 }
 
 export default App;
+
+//  "proxy": "http://localhost:8800/api" 
